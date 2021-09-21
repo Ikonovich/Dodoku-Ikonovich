@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: ikonovich-dodoku 
-  host: ikonovich-dodoku
+  name: eah0102-dodoku 
+  host: eah0102-dodoku
   disk_quota: 1024M
   buildpack: python_buildpack  
